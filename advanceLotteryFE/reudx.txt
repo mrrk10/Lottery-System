@@ -1,0 +1,4 @@
+what is redux?
+    =>g;obal state management tools
+why reudx?
+=>
